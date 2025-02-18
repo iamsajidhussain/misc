@@ -23,12 +23,6 @@ Feel free to contribute to this repository and make it even more valuable for th
 
 ---
 ## 1. Tell me about yourself.
-I am a passionate software developer with over 5 years of experience in the IT industry. 
-I hold a Bachelor's degree in Computer Science and have worked on a variety of projects ranging from web applications to mobile and desktop applications. 
-My expertise lies in full-stack development, where I have hands-on experience with technologies like Angular, .NET Core, SQL Server, and Ionic. 
-I am a quick learner and enjoy working in challenging environments that push me to grow both personally and professionally. 
-I am excited about the opportunity to contribute to innovative projects and collaborate with talented teams to create impactful solutions.
-
 My name is Sajid Hussain, and I have six years of experience as a full-stack .NET developer. I hold a Bachelor's degree in Computer Science and have worked on web, mobile, and desktop applications using .NET, C#, Angular, SQL, Ionic, and Web APIs. 
 
 My role covers everything from gathering requirements and designing architecture to development, deployment, and maintenance.  
