@@ -23,7 +23,7 @@ Feel free to contribute to this repository and make it even more valuable for th
 
 ---
 ## 1. Tell me about yourself.
-My name is Sajid Hussain, and I have six years of experience as a full-stack .NET developer. I hold a Bachelor's degree in Computer Science and have worked on web, mobile, and desktop applications using .NET, C#, Angular, SQL, Ionic, and Web APIs. 
+My name is Sajid Hussain, and I have 6.5 years of experience as a full-stack .NET developer. I hold a Bachelor's degree in Computer Science and have worked on web, mobile, and desktop applications using .NET, C#, Angular, SQL, Ionic, and Web APIs. 
 
 My role covers everything from gathering requirements and designing architecture to development, deployment, and maintenance.  
 
